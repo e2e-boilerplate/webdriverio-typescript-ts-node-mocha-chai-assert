@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                    |
+| :-- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 250 | 31/03/20 10:46 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/67468264) |
+| 254 | 01/04/20 08:51 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68232025) |
+| 257 | 01/04/20 11:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68344224) |
+| 258 | 01/04/20 22:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68718949) |
+| 255 | 01/04/20 08:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68232658) |
+| 256 | 01/04/20 10:59 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68320550) |
+| 252 | 31/03/20 23:33 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/67920651) |
+| 264 | 02/04/20 15:40 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69331619) |
+| 259 | 01/04/20 23:26 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68743247) |
+| 273 | 03/04/20 08:52 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69863658) |
+| 276 | 03/04/20 21:58 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/70310419) |
+| 274 | 03/04/20 21:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/70302382) |
+| 261 | 02/04/20 08:49 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69050149) |
+| 275 | 03/04/20 21:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/70303955) |
+| 278 | 04/04/20 16:34 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/70739135) |
+| 272 | 03/04/20 02:27 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69637309) |
+| 277 | 04/04/20 15:38 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/70715135) |
+| 279 | 04/04/20 18:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/70789791) |
+| 270 | 02/04/20 23:48 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69561522) |
+| 251 | 31/03/20 11:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/67517990) |
+| 253 | 01/04/20 07:48 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68191375) |
+| 269 | 02/04/20 23:32 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69559499) |
+| 271 | 03/04/20 00:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69575072) |
+| 262 | 02/04/20 09:50 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69092113) |
+| 267 | 02/04/20 23:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69551302) |
+| 266 | 02/04/20 21:35 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69506491) |
+| 265 | 02/04/20 19:39 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69444263) |
+| 263 | 02/04/20 12:58 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69224519) |
+| 268 | 02/04/20 23:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/69556685) |
+| 260 | 01/04/20 23:28 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/actions/runs/68744742) |
