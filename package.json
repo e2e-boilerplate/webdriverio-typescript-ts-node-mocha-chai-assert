@@ -1,7 +1,7 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai/issues"
+    "url": "https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert/issues"
   },
   "dependencies": {
     "@wdio/cli": "6.0.13",
@@ -16,7 +16,7 @@
     "typescript": "3.8.3",
     "wdio-chromedriver-service": "6.0.1"
   },
-  "description": "WebdriverIO end-to-end test automation boilerplate. Using TypeScript, ts-node, Mocha and Chai.",
+  "description": "WebdriverIO end-to-end test automation boilerplate. Using TypeScript, ts-node, Mocha, Chai and Assert.",
   "devDependencies": {
     "@types/chai": "4.2.11",
     "@types/mocha": "7.0.2",
@@ -28,13 +28,14 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-plugin-prettier": "2.3.0"
   },
-  "homepage": "https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai#readme",
+  "homepage": "https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged --allow-empty"
     }
   },
   "keywords": [
+    "assert",
     "boilerplate",
     "chai",
     "e2e",
@@ -52,10 +53,10 @@
       "prettier --write"
     ]
   },
-  "name": "webdriverio-typescript-ts-node-mocha-chai",
+  "name": "webdriverio-typescript-ts-node-mocha-chai-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai.git"
+    "url": "git+https://github.com/e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert.git"
   },
   "scripts": {
     "lint": "npx tslint -c tslint.json './spec/*.ts'",

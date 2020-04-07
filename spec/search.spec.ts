@@ -1,4 +1,4 @@
-import { expect } from "chai";
+import { assert } from "chai";
 
 describe("Sandbox", () => {
   before(() => {
@@ -7,9 +7,9 @@ describe("Sandbox", () => {
 
   it("should be on Sandbox", () => {
     const title: string = browser.getTitle();
-    const header: string = $("h1").getText();
+    assert.strictequal(title, "Sandbox");
 
-    expect(title).to.eq("Sandbox");
-    expect(header).to.eq("Sandbox");
+    const header: string = $("h1").getText();
+    assert.strictequal(header, "Sandbox");
   });
 });
