@@ -2,7 +2,7 @@ name: webdriverio-typescript-ts-node-mocha-chai-assert
 'on':
   push: null
   schedule:
-    - cron: 20 2 1-31/2 * *
+    - cron: 10 3 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
