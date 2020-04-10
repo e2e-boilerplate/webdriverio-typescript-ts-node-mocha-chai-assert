@@ -1,4 +1,3 @@
 | referrer   | count | uniques |
 | :--------- | :---- | :------ |
-| Google     | 13    | 2       |
-| github.com | 5     | 1       |
+| github.com | 2     | 2       |
