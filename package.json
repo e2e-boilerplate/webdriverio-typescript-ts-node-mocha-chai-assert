@@ -21,11 +21,7 @@
     "@types/chai": "4.2.11",
     "@types/mocha": "7.0.2",
     "@types/node": "13.11.1",
-<<<<<<< HEAD
-    "husky": "4.2.3",
-=======
     "husky": "4.2.5",
->>>>>>> 6e9e294414071fddd353d9562b88a9fa0ea12ebb
     "lint-staged": "10.1.3",
     "prettier": "2.0.4",
     "tslint": "6.1.1",
