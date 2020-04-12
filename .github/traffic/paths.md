@@ -1,6 +1,6 @@
 | referrer                                                                                          | count | uniques |
 | :------------------------------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert                                 | 8     | 2       |
+| /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert                                 | 9     | 3       |
 | /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert/blob/master/spec/search.spec.ts | 3     | 1       |
 | /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert/actions                         | 2     | 1       |
 | /e2e-boilerplate/webdriverio-typescript-ts-node-mocha-chai-assert/actions/runs/72305667           | 2     | 1       |
