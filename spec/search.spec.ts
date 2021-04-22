@@ -9,7 +9,7 @@ describe("Sandbox", () => {
     const title: string = browser.getTitle();
     assert.strictEqual(title, "Sandbox");
 
-    const header: string = $("h1").getText();
+    const header: string = browser.$("h1").getText();
     assert.strictEqual(header, "Sandbox");
   });
 });
